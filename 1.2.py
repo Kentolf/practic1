@@ -3,8 +3,8 @@ import math
 
 pygame.init()
 
-win_width = 800
-win_height = 600
+win_width = 1280
+win_height = 720
 win = pygame.display.set_mode((win_width, win_height))
 pygame.display.set_caption("moving lines")
 
