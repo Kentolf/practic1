@@ -50,6 +50,6 @@ while running:
     line2_angle += 1
 
     pygame.display.flip()
-    clock.tick(60)
+    clock.tick(120)
 
 pygame.quit()
